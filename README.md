@@ -77,30 +77,7 @@ The UI is designed to look **clean, modern, and professional**, similar to real-
 
 ---
 
-## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/your-username/emotion-detection-system.git
-cd emotion-detection-system
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-pip install opencv-python numpy deepface tf-keras
-```
-
-### 3️⃣ Run the Project
-
-```bash
-python main.py
-```
-
->
-
----
 
 ## 📊 Performance Optimization
 
